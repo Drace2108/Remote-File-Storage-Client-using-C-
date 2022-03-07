@@ -1,7 +1,7 @@
 # Remote-File-Storage-Client-using-C-
 # Instructions
 
-Since we used #pragma comment(lib, "ws2_32.lib") in this code (which gcc ignores on windows), there are two options to run the client program:
+Since I used #pragma comment(lib, "ws2_32.lib") in this code (which gcc ignores on windows), there are two options to run the client program:
 1) Open the [program].exe (could not upload to canvas and left link to download from google drive) file which opens the command line and proceed functions
 2) Open the [program].cpp in Visual Studio 2019 and compile it within it, subsequently opening command line and proceeding functions
 
